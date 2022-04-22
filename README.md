@@ -7,7 +7,7 @@ https://gitlab.com/iLychevAD/ci-cd-for-a-multi-component-app
 2. An idea about blue-green strategy for AWS Serverless (AWS Lambda + AWS API Gateway) only using CloudFormation capabilities: 
 https://github.com/iLychevAD/apigw-bluegreen-cfn-gitops
 
-3. Demonstration of my skills with ARM templates and Azure things in general - the project seemed to be abandoned at the time I encountered it. In my commits I fixed ARM templates (they evolve fast and by that moment some API versions became outdated and ceased been supported by the Azure) and partially automated some steps that were manual in the original project -https://github.com/iLychevAD/serverless-reference-implementation
+3. Demonstration of my skills with ARM templates and Azure things in general - the original project was by "Microsoft patterns & practices" account but  seemed to be abandoned by the time I encountered it. In my commits I fixed ARM templates (they evolve fast and by that moment some API versions became outdated and ceased been supported by the Azure) and partially automated some steps that were manual in the original project - https://github.com/iLychevAD/serverless-reference-implementation
 
 4. Rather simple test task demonstrating creating image processing serverless solution within AWS. One can say it uses so called Choreography pattern -  https://github.com/iLychevAD/FacesPoC
 
