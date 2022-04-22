@@ -9,7 +9,7 @@ https://github.com/iLychevAD/apigw-bluegreen-cfn-gitops
 
 3. Demonstration of my skills with ARM templates and Azure things in general - the original project was by "Microsoft patterns & practices" account but  seemed to be abandoned by the time I encountered it. In my commits I fixed ARM templates (they evolve fast and by that moment some API versions became outdated and ceased been supported by the Azure) and partially automated some steps that were manual in the original project - https://github.com/iLychevAD/serverless-reference-implementation
 
-4. Rather simple test task demonstrating creating image processing serverless solution within AWS. One can say it uses so called Choreography pattern -  https://github.com/iLychevAD/FacesPoC
+4. Rather simple test task demonstrating creating image processing serverless solution within AWS. One can say it uses so called Choreography pattern (![link](https://microservices.io/patterns/data/saga.html)) -  https://github.com/iLychevAD/FacesPoC
 
 5. Nothing fancy, just one primitive test task for some employer, demonstrates my skills with CloudFormation and AWS ECS. The most interesting part is how AWS CodeBuild is used during CloudFormation Stack bootstrap process to build Docker images: 
 https://github.com/iLychevAD/flask-aws-storage 
