@@ -16,3 +16,5 @@ https://github.com/iLychevAD/flask-aws-storage
 
 6. Long ago when it was not public I contributed a lot into that module. Before making it public they seemed to tidy up the code a lot and all my contribution was purged :-)
 https://github.com/iLychevAD/ansible-module-yandex-cloud
+
+7. That was a test task for a position of a full-stack developer (so, something not really relevant to my usual occupation but nevertheless I was curious to take on it) - https://github.com/iLychevAD/video_archive_django_celery_k8s-1. From nowadays perspective it looks really ugly and clumsy, I admit that, but I think I should not be shy for that - after all that was just a test task for which not its quality the best qualifier but amount of time the task taken to be done. Notice the repo contains a demo video.
